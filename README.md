@@ -13,3 +13,7 @@ At KodeMaster, we believe no candidate should walk into a technical interview un
 **Adaptive Learning Paths:** Based on your performance, KodeMaster curates next steps: what to reinforce, which problem types to focus on, and when you're ready to simulate full marquee interviews.
 
 **Behavioral & Soft Skills Coaching:** Technical skills are vital, but interviews also evaluate communication, problem framing, and tradeoff discussion. We simulate behavioral prompts and interaction style to prepare you holistically.
+
+**Made with ❤️ by the KodeMaster AI Team**
+
+[Website](https://kodemaster.ai) • [Twitter](https://x.com/KodeMasterAI) • [LinkedIn](https://www.linkedin.com/company/kodemaster-ai) [Instagram](https://www.instagram.com/kodemaster.ai/) 
