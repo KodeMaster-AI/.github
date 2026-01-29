@@ -139,9 +139,10 @@ Your voice matters here.
 
 ---
 
-## 📬 Connect With Us
+* **Made with ❤️ by the KodeMaster AI Team**
 
-* 🌐 Website: [https://kodemaster.ai](https://kodemaster.ai)
+[Website](https://kodemaster.ai) • [Twitter](https://x.com/KodeMasterAI) • [LinkedIn](https://www.linkedin.com/company/kodemaster-ai) [Instagram](https://www.instagram.com/kodemaster.ai/) 
+
 * 📧 Support & questions: via our website
 
 ---
